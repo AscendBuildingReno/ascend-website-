@@ -1,0 +1,19 @@
+/* Import landing-page font families for nav consistency */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@400;600;700&display=swap');
+
+/* Apply landing-page typography to Elementor header nav items */
+.elementor-nav-menu--main .elementor-item,
+.elementor-nav-menu--dropdown .elementor-item {
+  font-family: 'Barlow Condensed', 'Roboto Condensed', sans-serif !important;
+  font-size: 14px !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+}
+
+/* Footer quick-links nav */
+.elementor-nav-menu--layout-vertical .elementor-item {
+  font-family: 'Barlow Condensed', 'Roboto Condensed', sans-serif !important;
+  font-size: 14px !important;
+  letter-spacing: 0.06em !important;
+  text-transform: uppercase !important;
+}
