@@ -17,3 +17,7 @@ Live site: https://ascendbuildingrenovations.com (Netlify project `ascendbuildin
 - Forms are Netlify Forms (`data-netlify="true"`). Keep each form's `name`, the honeypot fields (`bot-field` and `website`) and the maths check intact.
 
 Source: published deploy 6b00c27e683df2378d5a5a24 (20 Nov 2026), downloaded from Netlify on 24 Nov 2026.
+
+## Deploys
+- The repo is public (since 25 Nov 2026). On Netlify's free plan, pushes to private repos from anyone other than the owner were blocked ("Unrecognized Git contributor").
+- Never commit secrets, phone numbers, customer addresses or anything private. Everything here is public.
