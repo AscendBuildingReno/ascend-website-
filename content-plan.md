@@ -32,6 +32,17 @@ Two posts a week (from 1 Dec 2026):
 5. Artex ceilings in older homes: skim over or remove? (cover asbestos testing before any sanding)
 6. Wallpaper in bathrooms and kitchens: what works in humid rooms
 7. Selling your house: decorating jobs worth doing before you list it
+8. Restoring cornices and ceiling roses in Birkdale's Victorian houses: repair, recast or replace?
+9. Tall Victorian hallways and stairwells: how they're decorated safely (access towers, platforms)
+10. Bungalow refresh in Ainsdale and Formby: the best order to do the rooms in
+11. Painting over wallpaper: why it usually goes wrong, and what to do instead
+12. Moving into an older Southport house: decorating jobs to do before the furniture arrives
+13. Period woodwork: strip old gloss, or sand and repaint skirting boards and doors?
+14. Dementia-friendly colours for care homes and family homes: contrast, doors and handrails (check NHS and Alzheimer's Society guidance)
+15. Decorating an occupied rental flat: how a refresh works around tenants
+16. Coving, dado rails and picture rails: putting period details back into a modernised house
+17. Garden walls and outbuildings: painting brick and render after a coastal winter
+18. Hiring a painter and decorator: the questions to ask before you book
 
 ## Ideas: Burnley (Thursday)
 1. Lining paper: when old walls need it before painting (real job: lining paper bedroom, Burnley)
@@ -41,6 +52,18 @@ Two posts a week (from 1 Dec 2026):
 5. Patterned feature wallpaper: choosing it and hanging it right (real jobs: job8, job9)
 6. Damp patches on stone terraced houses: what to sort before redecorating
 7. Small terraced rooms: colour and finish choices that make them feel bigger
+8. Doing up a terraced house: the right order for plastering, decorating and flooring
+9. Selective licensing in Burnley: what it means for a rental's condition (check Burnley Council's own pages for the current rules)
+10. Steep terrace stairs: how landings and stairwells are decorated safely
+11. Ceiling repairs after a leak: patch it, or replace the plasterboard?
+12. Painting kitchen cupboards: the prep that makes it last
+13. Woodchip wallpaper: getting it off without wrecking the plaster
+14. New-build snagging: plaster and decorating defects to look for
+15. Extensions and garage conversions: plastering and decorating the new room
+16. Terraced house exteriors: sills, doors and fascias to sort before spring
+17. Shops and offices: decorating commercial premises out of hours
+
+These lists cover every Tuesday and Thursday from 1 Dec 2026 to 31 Mar 2027 (18 Tuesdays, 17 Thursdays). Use them in order unless a real job, the season or a reader question gives a better topic. Add new ideas at the end of each list.
 
 ## Published (from 1 Dec 2026)
 | Date | Day | Title | URL |
