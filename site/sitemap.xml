@@ -176,7 +176,7 @@
   <url><loc>https://ascendbuildingrenovations.com/southport-property-refresh/</loc><lastmod>2026-08-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ascendbuildingrenovations.com/landlord-decorating-property-refresh/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ascendbuildingrenovations.com/privacy-policy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://ascendbuildingrenovations.com/blog/</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ascendbuildingrenovations.com/blog/</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url>
     <loc>https://ascendbuildingrenovations.com/blog/cost-to-plaster-a-room/</loc>
     <lastmod>2026-08-18</lastmod>
@@ -270,6 +270,12 @@
   <url>
     <loc>https://ascendbuildingrenovations.com/blog/decorating-padiham-nelson-colne/</loc>
     <lastmod>2026-11-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ascendbuildingrenovations.com/blog/lining-paper-before-painting-old-walls/</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>

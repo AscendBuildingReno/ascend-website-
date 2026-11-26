@@ -45,26 +45,26 @@ Two posts a week (from 1 Dec 2026):
 18. Hiring a painter and decorator: the questions to ask before you book
 
 ## Ideas: Burnley (Thursday)
-1. Lining paper: when old walls need it before painting (real job: lining paper bedroom, Burnley)
-2. Plastering after a new boiler is fitted: what's involved (real job: boiler wall)
-3. Nicotine-stained walls and ceilings: how to cover them properly (real job: job12)
-4. Marble effect feature walls: what's involved (real job: job5)
-5. Patterned feature wallpaper: choosing it and hanging it right (real jobs: job8, job9)
-6. Damp patches on stone terraced houses: what to sort before redecorating
-7. Small terraced rooms: colour and finish choices that make them feel bigger
-8. Doing up a terraced house: the right order for plastering, decorating and flooring
-9. Selective licensing in Burnley: what it means for a rental's condition (check Burnley Council's own pages for the current rules)
-10. Steep terrace stairs: how landings and stairwells are decorated safely
-11. Ceiling repairs after a leak: patch it, or replace the plasterboard?
-12. Painting kitchen cupboards: the prep that makes it last
-13. Woodchip wallpaper: getting it off without wrecking the plaster
-14. New-build snagging: plaster and decorating defects to look for
-15. Extensions and garage conversions: plastering and decorating the new room
-16. Terraced house exteriors: sills, doors and fascias to sort before spring
-17. Shops and offices: decorating commercial premises out of hours
+1. Plastering after a new boiler is fitted: what's involved (real job: boiler wall)
+2. Nicotine-stained walls and ceilings: how to cover them properly (real job: job12)
+3. Marble effect feature walls: what's involved (real job: job5)
+4. Patterned feature wallpaper: choosing it and hanging it right (real jobs: job8, job9)
+5. Damp patches on stone terraced houses: what to sort before redecorating
+6. Small terraced rooms: colour and finish choices that make them feel bigger
+7. Doing up a terraced house: the right order for plastering, decorating and flooring
+8. Selective licensing in Burnley: what it means for a rental's condition (check Burnley Council's own pages for the current rules)
+9. Steep terrace stairs: how landings and stairwells are decorated safely
+10. Ceiling repairs after a leak: patch it, or replace the plasterboard?
+11. Painting kitchen cupboards: the prep that makes it last
+12. Woodchip wallpaper: getting it off without wrecking the plaster
+13. New-build snagging: plaster and decorating defects to look for
+14. Extensions and garage conversions: plastering and decorating the new room
+15. Terraced house exteriors: sills, doors and fascias to sort before spring
+16. Shops and offices: decorating commercial premises out of hours
 
 These lists cover every Tuesday and Thursday from 1 Dec 2026 to 31 Mar 2027 (18 Tuesdays, 17 Thursdays). Use them in order unless a real job, the season or a reader question gives a better topic. Add new ideas at the end of each list.
 
-## Published (from 1 Dec 2026)
+## Published (Tuesday and Thursday posts)
 | Date | Day | Title | URL |
 | --- | --- | --- | --- |
+| 2026-11-26 | Thu | Do Old Walls Need Lining Paper Before Painting? | https://ascendbuildingrenovations.com/blog/lining-paper-before-painting-old-walls/ |
